@@ -1,0 +1,18 @@
+.imgheight {
+  height: 650px;
+}
+
+.gradient {
+  background: linear-gradient(90deg, lightgrey, lightblue);
+}
+
+@media screen and (max-width: 480px) {
+  h1 {
+    font-size: .8rem;
+    font-weight: normal;
+  }
+  p {
+    font-size: .8rem;
+    font-weight: normal;
+  }
+}
